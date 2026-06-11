@@ -50,7 +50,7 @@ WordSmithX/
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/WordSmithX.git
+git clone https://github.com/securitygeek15/WordSmithX.git
 ```
 
 Navigate into the project:
